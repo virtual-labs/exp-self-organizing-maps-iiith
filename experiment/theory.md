@@ -8,7 +8,7 @@ In a self-organizing map, the input is represented by an \(M\)-dimensional featu
 
 
 
-<img src="SOM.png">
+<img src="images/SOM.png">
 
 
 
