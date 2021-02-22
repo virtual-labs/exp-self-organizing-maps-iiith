@@ -1,1 +1,1 @@
-## Experiment name
+## Solution of optimization problems
