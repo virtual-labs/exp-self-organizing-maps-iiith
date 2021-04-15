@@ -1,0 +1,3 @@
+- B. Yegnanarayana, Artificial Neural Networks, New Delhi, India : Prentice-Hall of India, p. 298, 1999.
+- T. Kohonen, "Analysis of simple self-organizing process", Biol. Cybernet., vol. 44, pp. 135-140, 1982a.
+- J.J. Hopfield and D.W. Tank, "Neural computation of decisions in optimization problems", Biol. Cybernet., vol. 52, pp. 141-152, 1985.
