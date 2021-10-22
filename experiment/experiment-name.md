@@ -1,1 +1,1 @@
-## Solution of optimization problems
+## Solution to Travelling Salesman Problem Using Self Organizing Maps
