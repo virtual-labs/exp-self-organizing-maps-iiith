@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-self-organizing-maps-iiith/exp-self-organizing-maps-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-self-organizing-maps-iiith/exp-self-organizing-maps-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
